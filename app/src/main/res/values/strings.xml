@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Cyber Struggle</string>
+
+    <string name="cyber_struggle_description_1">At Cyber Struggle, We are helping cybersecurity front-liners to remain functional, resilient, and primed;
+        technically and psychologically, no matter the conditions. We’ve adopted the rigor and ethos of special forces, applying it to the cyber world.
+        Our training methodology centers on shifting from mere know-how to know-why, focusing on functionality. And bring the “learning” concept to the
+        “acquiring” concept with experience-based simulations. We aim to cultivate experts who are problem-solvers, resilient under pressure, adaptive,
+        always ready, and technically hybrid, much like special forces. This approach is not just about preparing for the current landscape of cyber
+        threats but evolving with it, ensuring that our professionals are not just participants in the cybersecurity domain but leaders who define its
+        future.</string>
+
+    <string name="cyber_struggle_description_2">The landscape of warfare has evolved post-9/11, shifting from conventional armies to an unconventional
+        mix of special forces and non-state actors. Similarly, cybersecurity has transformed, now dealing with threats ranging from lone wolves to
+        state-sponsored groups, encompassing espionage, data theft, sabotage, privacy breaches, disinformation, and perception management.</string>
+
+    <string name="cyber_struggle_description_3">Traditionally, the cybersecurity market approached its challenges and workforce development with a
+        mindset rooted in the industrial era, focusing on technical skills, and traditional education methodologies. However, this perspective falls
+        short in addressing the multifaceted nature of modern cyber threats, which are as serious and intense as they have ever been. Cyber attackers
+        are not just the stereotypical hoodie-wearing antisocial figures; they represent a broad spectrum of adversaries, making the cyber domain a
+        battleground for various legal and illegal entities.</string>
+
+    <string name="philosophical_background_description">Developing interdisciplinary cybersecurity doctrine and training methodology inspired by Special
+        Forces and called Ranger Program. Graduation of first 60. Heavily testing the idea.</string>
+
+    <string name="covid_19_description">Searching the potential of implementing the online version of Ranger without losing efficiency. Aegis certification program born. Together with Ranger, the heavy test reached 250+ real customers with 99% satisfaction</string>
+
+    <string name="s46_software_description">Some respected brands put certifications on their job description as a major plus. S46 cyber range and simulation software born and first enterprise sale. Transformation to technology startup was initiated.</string>
+
+</resources>
